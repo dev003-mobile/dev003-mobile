@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Flutter, Dart, Python, Firebase, AWS Amplify, Typescript**
 
-- 📫 How to reach me **wagnercoche@gmail.com**
+- 📫 How to reach me **dev003.mobile@gmail.com**
 
 - ⚡ Fun fact **"Do you know the favorite animal of a software developer who loves to be alone, in silence, but also loves music? Byte. He's a loner, he lives in a silent world of code, but every now and then, he dances to the rhythm of bits and bytes!" 🎶🕺😄**
 
