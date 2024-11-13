@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Kotlin, Go, React Native, ARCore, and more...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wagner-Coche](https://github.com/Wagner-Coche)
-
 - 💬 Ask me about **React, Flutter, Dart, Python, Firebase, AWS Amplify, Typescript**
 
 - 📫 How to reach me **wagnercoche@gmail.com**
